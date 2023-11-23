@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T12:50:35.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="hU__wdgQ4mOQkZyovEw1" version="22.1.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-11-23T13:20:01.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="v6hKtiDOS8NdEXARovT9" version="22.1.3" type="github" pages="8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="702" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -561,10 +561,8 @@
         <mxCell id="Gqx3ukjS3KdN22wB00Qh-20" value="num1" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="657" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Gqx3ukjS3KdN22wB00Qh-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="Gqx3ukjS3KdN22wB00Qh-22" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="867" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="nyySlLLA0nFZ6OvBo-Kb-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gqx3ukjS3KdN22wB00Qh-22" target="Gqx3ukjS3KdN22wB00Qh-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gqx3ukjS3KdN22wB00Qh-22" value="num2=num1%10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="767" width="120" height="60" as="geometry" />
@@ -624,11 +622,6 @@
         <mxCell id="LjKQiBeXn51W__IhEBqI-3" value="num1" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="117" width="80" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="LjKQiBeXn51W__IhEBqI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LjKQiBeXn51W__IhEBqI-12" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="327" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LjKQiBeXn51W__IhEBqI-5" value="num2=num1%100" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="180" width="120" height="60" as="geometry" />
         </mxCell>
@@ -652,9 +645,6 @@
         <mxCell id="LjKQiBeXn51W__IhEBqI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="LjKQiBeXn51W__IhEBqI-9" target="LjKQiBeXn51W__IhEBqI-9" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LjKQiBeXn51W__IhEBqI-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LjKQiBeXn51W__IhEBqI-12" target="LjKQiBeXn51W__IhEBqI-8" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="LjKQiBeXn51W__IhEBqI-13" value=".&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;7&lt;/font&gt;&lt;/b&gt; קלוט נתון תלת ספרתי והדפס את ספרת המאות )מובטח כי אינה 0(." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="355" y="43" width="350" height="40" as="geometry" />
         </mxCell>
@@ -663,6 +653,9 @@
             <mxPoint x="160" y="240" as="sourcePoint" />
             <mxPoint x="160" y="327" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rImSS9FJqrj14zKQwnDU-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LjKQiBeXn51W__IhEBqI-12" target="LjKQiBeXn51W__IhEBqI-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LjKQiBeXn51W__IhEBqI-12" value="answer= (num1-num2)/100" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="270" width="120" height="60" as="geometry" />
@@ -688,11 +681,6 @@
         <mxCell id="LjKQiBeXn51W__IhEBqI-21" value="num1" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="667" width="80" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="LjKQiBeXn51W__IhEBqI-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LjKQiBeXn51W__IhEBqI-31" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="877" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LjKQiBeXn51W__IhEBqI-23" value="num2=num1%10&lt;br&gt;num3= (num1-num2)/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="730" width="120" height="60" as="geometry" />
         </mxCell>
@@ -716,14 +704,14 @@
         <mxCell id="LjKQiBeXn51W__IhEBqI-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="LjKQiBeXn51W__IhEBqI-27" target="LjKQiBeXn51W__IhEBqI-27" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LjKQiBeXn51W__IhEBqI-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LjKQiBeXn51W__IhEBqI-31" target="LjKQiBeXn51W__IhEBqI-26" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="LjKQiBeXn51W__IhEBqI-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LjKQiBeXn51W__IhEBqI-23" target="LjKQiBeXn51W__IhEBqI-31" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="790" as="sourcePoint" />
             <mxPoint x="180" y="877" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rImSS9FJqrj14zKQwnDU-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LjKQiBeXn51W__IhEBqI-31" target="LjKQiBeXn51W__IhEBqI-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LjKQiBeXn51W__IhEBqI-31" value="answer= (num2+num3)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="820" width="120" height="60" as="geometry" />
@@ -736,6 +724,75 @@
         </mxCell>
         <mxCell id="LjKQiBeXn51W__IhEBqI-34" value="3+8=11" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="818" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aroz4nlLuRMa-NSpyFzz-1" value="&lt;div&gt;.9 בתור הקלט שלם בין 10 לבין .99&lt;/div&gt;&lt;div&gt;* הפוך את סדר הספרות והצג את המספר החדש.&lt;/div&gt;&lt;div&gt;&amp;nbsp;לדוגמא: קלט – ,61 פלט – .16&lt;/div&gt;&lt;div&gt; לא הבנתי את השאלה!&lt;/div&gt;&lt;div&gt;כשנתקלים בניסוח שונה, כדאי להפוך אותו למשפט &quot;קלוט...&lt;/div&gt;&lt;div&gt;והצג...&quot;.&lt;/div&gt;&lt;div&gt;להלן ניסוח אחר של השאלה:&lt;/div&gt;&lt;div&gt;קלוט שלם בין 10 לבין ,99&lt;/div&gt;&lt;div&gt;הפוך את סדר הספרות והצג את המספר החדש.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1160" width="290" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Aroz4nlLuRMa-NSpyFzz-2" value="&lt;div&gt;10 * קלוט מספר והצג את השלם הזוגי הגדול ממנו והקרוב ביותר אליו.&lt;/div&gt;&lt;div&gt;&amp;nbsp;לדוגמא: קלט – ,4.1 פלט – .6&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1633" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aroz4nlLuRMa-NSpyFzz-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="Aroz4nlLuRMa-NSpyFzz-10" target="Aroz4nlLuRMa-NSpyFzz-5" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aroz4nlLuRMa-NSpyFzz-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="Aroz4nlLuRMa-NSpyFzz-5" target="Aroz4nlLuRMa-NSpyFzz-6" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aroz4nlLuRMa-NSpyFzz-5" value="num1" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1747" width="80" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Aroz4nlLuRMa-NSpyFzz-6" value="num2=num1*10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aroz4nlLuRMa-NSpyFzz-7" value="stop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aroz4nlLuRMa-NSpyFzz-10" value="start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1680" width="120" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="Aroz4nlLuRMa-NSpyFzz-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="Aroz4nlLuRMa-NSpyFzz-10" target="Aroz4nlLuRMa-NSpyFzz-10" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aroz4nlLuRMa-NSpyFzz-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="Aroz4nlLuRMa-NSpyFzz-6" target="Aroz4nlLuRMa-NSpyFzz-14" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="1870" as="sourcePoint" />
+            <mxPoint x="220" y="1957" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aroz4nlLuRMa-NSpyFzz-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Aroz4nlLuRMa-NSpyFzz-14" target="Aroz4nlLuRMa-NSpyFzz-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aroz4nlLuRMa-NSpyFzz-14" value="num3=num2%10&lt;br&gt;num4=(num2-num3)/10&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1900" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aroz4nlLuRMa-NSpyFzz-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Aroz4nlLuRMa-NSpyFzz-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="2080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="2080" />
+              <mxPoint x="390" y="2080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aroz4nlLuRMa-NSpyFzz-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Aroz4nlLuRMa-NSpyFzz-15" target="Aroz4nlLuRMa-NSpyFzz-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aroz4nlLuRMa-NSpyFzz-15" value="num4%2==0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2000" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Aroz4nlLuRMa-NSpyFzz-20" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="2028" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aroz4nlLuRMa-NSpyFzz-21" value="answer2=num5+1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="2050" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Aroz4nlLuRMa-NSpyFzz-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Aroz4nlLuRMa-NSpyFzz-23" target="Aroz4nlLuRMa-NSpyFzz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aroz4nlLuRMa-NSpyFzz-23" value="answer1=num5+2" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Aroz4nlLuRMa-NSpyFzz-27" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="2138" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
