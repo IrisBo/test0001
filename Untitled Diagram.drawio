@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T20:17:12.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="6ORHYyvh0ytFiVdGx9h4" version="22.1.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-11-25T20:19:32.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="rm-1Jkc62RLQIj3XXTk7" version="22.1.3" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="702" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1521,6 +1521,15 @@
         </mxCell>
         <mxCell id="_Gd7nR9cIvezlLB9O3Nd-56" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;start&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="127.5" y="600" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_Gd7nR9cIvezlLB9O3Nd-58" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF66B3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="178.12" y="2770" as="sourcePoint" />
+            <mxPoint x="748.12" y="2770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Gd7nR9cIvezlLB9O3Nd-60" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;עצרת של מספר n – מסומנת n !והיא מכפלת המספרים הטבעיים 1* 2*3*..*n&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;– לדוגמה 5,! = 1*2* 3*4* 5 = 120&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;עליך לממש n !באמצעות לולאת while יורדת.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="2790" width="470" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
