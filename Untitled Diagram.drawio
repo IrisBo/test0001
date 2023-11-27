@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T17:11:58.186Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Niyeinvj9xcpXdeM6koz" version="22.1.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-11-27T19:05:07.910Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="DVwgzWX6HjlhGd9UDl0c" version="22.1.3" type="github" pages="11">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="702" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2073,6 +2073,67 @@
         </mxCell>
         <mxCell id="Kor-1coCBf208ouY_W4w-27" value="&lt;div style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;font-size: 21px; background-color: initial;&quot;&gt;לקבל מספר ולהדפיס את כל המספרים מתחתיו,&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;אם מספר זוגי להציג את השלילי&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;אם מספר לא זוגי להציג את החיובי&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="340" y="640" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Kor-1coCBf208ouY_W4w-28" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF66B3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="142.5" y="1240" as="sourcePoint" />
+            <mxPoint x="912.5" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kor-1coCBf208ouY_W4w-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="Kor-1coCBf208ouY_W4w-31" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kor-1coCBf208ouY_W4w-31" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;start&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kor-1coCBf208ouY_W4w-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kor-1coCBf208ouY_W4w-32" target="Kor-1coCBf208ouY_W4w-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kor-1coCBf208ouY_W4w-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;arr={2,5,7,9}&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kor-1coCBf208ouY_W4w-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kor-1coCBf208ouY_W4w-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kor-1coCBf208ouY_W4w-33" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;len=arr.lenght&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kor-1coCBf208ouY_W4w-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kor-1coCBf208ouY_W4w-37" target="Kor-1coCBf208ouY_W4w-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kor-1coCBf208ouY_W4w-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kor-1coCBf208ouY_W4w-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="1940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="1673" />
+              <mxPoint x="520" y="1940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kor-1coCBf208ouY_W4w-37" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1585" width="180" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="Kor-1coCBf208ouY_W4w-38" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;i=0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1610" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kor-1coCBf208ouY_W4w-39" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;i++&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1650" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Kor-1coCBf208ouY_W4w-40" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;i&amp;lt;len&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1657.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kor-1coCBf208ouY_W4w-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kor-1coCBf208ouY_W4w-41" target="Kor-1coCBf208ouY_W4w-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kor-1coCBf208ouY_W4w-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;arr[i]&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kor-1coCBf208ouY_W4w-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;stop&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1910" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
