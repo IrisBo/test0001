@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T11:32:33.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="cgaC2pHuVFN0gKKlkMvW" version="22.1.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-11-30T11:36:26.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="84AIHj3esZ9hCbyJfg0j" version="22.1.3" type="github" pages="11">
   <diagram id="OjJHcwHKSqH4Mogp7UZg" name="Page-2">
     <mxGraphModel dx="933" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2163,7 +2163,7 @@
           <mxGeometry x="240" y="262.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZZRiCb3sTBnBvlHeejqr-16" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;קלוט נתונים לתוך מערך בגודל .50 הדפס את ממוצע המספרים במערך וכן את כל&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;המספרים הגדולים מהממוצע.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="340" y="40" width="490" height="50" as="geometry" />
+          <mxGeometry x="315" y="40" width="490" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZZRiCb3sTBnBvlHeejqr-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZZRiCb3sTBnBvlHeejqr-9" target="ZZRiCb3sTBnBvlHeejqr-17">
           <mxGeometry relative="1" as="geometry">
@@ -2258,12 +2258,12 @@
           <mxGeometry x="690" y="457.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZZRiCb3sTBnBvlHeejqr-53" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;קלוט נתונים לתוך מערך בגודל 100 והדפס את ממוצע המספרים הזוגיים בלבד.&lt;/font&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="365" y="760" width="470" height="30" as="geometry" />
+          <mxGeometry x="330" y="760" width="470" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iUyb8CIV-onIVDOIvf63-1" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF66B3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="750" as="sourcePoint" />
-            <mxPoint x="830" y="750" as="targetPoint" />
+            <mxPoint x="-10" y="750" as="sourcePoint" />
+            <mxPoint x="860" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iUyb8CIV-onIVDOIvf63-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: rgb(51, 255, 51);&quot;&gt;start&lt;br&gt;loop&amp;lt;100&lt;br&gt;input&lt;br&gt;if modul2==0&lt;br&gt;avg&lt;br&gt;print avg&lt;br&gt;stop&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
@@ -2369,8 +2369,8 @@
         </mxCell>
         <mxCell id="iUyb8CIV-onIVDOIvf63-40" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF66B3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="30" y="1600" as="sourcePoint" />
-            <mxPoint x="800" y="1600" as="targetPoint" />
+            <mxPoint x="-50" y="1600" as="sourcePoint" />
+            <mxPoint x="870" y="1600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iUyb8CIV-onIVDOIvf63-41" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;קלוט נתונים לתוך מערך בגודל 60 ובדוק האם קיים תא שערכו שווה לסכום כל התאים&lt;/font&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
@@ -2457,12 +2457,12 @@
         </mxCell>
         <mxCell id="iUyb8CIV-onIVDOIvf63-77" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF66B3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="2320" as="sourcePoint" />
-            <mxPoint x="830" y="2320" as="targetPoint" />
+            <mxPoint x="-30" y="2320" as="sourcePoint" />
+            <mxPoint x="870" y="2320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iUyb8CIV-onIVDOIvf63-78" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;קלוט נתונים לתוך מערך בגודל 20 החלף את עשרת התאים הראשונים בעשרת התאים&lt;br&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;האחרונים&lt;br&gt;תאים 0 ו10- מתחלפים, תאים 1 ו11- מתחלפים וכו&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="310" y="2350" width="510" height="70" as="geometry" />
+          <mxGeometry x="289.93" y="2340" width="510" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iUyb8CIV-onIVDOIvf63-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="iUyb8CIV-onIVDOIvf63-80" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -2593,12 +2593,12 @@
         </mxCell>
         <mxCell id="iUyb8CIV-onIVDOIvf63-120" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF66B3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="55" y="3160" as="sourcePoint" />
-            <mxPoint x="825" y="3160" as="targetPoint" />
+            <mxPoint x="-60" y="3160" as="sourcePoint" />
+            <mxPoint x="870" y="3160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iUyb8CIV-onIVDOIvf63-121" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;קלוט נתונים מספריים למערך בגודל 60 וסדר את הנתונים במערך, כך שכל הזוגיים יהיו&lt;br&gt;&amp;nbsp;בחלקו הימני. הדפס את המערך המקורי ולאחר סידורו מחדש.&lt;/font&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="305" y="3170" width="520" height="50" as="geometry" />
+          <mxGeometry x="279.93" y="3170" width="520" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iUyb8CIV-onIVDOIvf63-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iUyb8CIV-onIVDOIvf63-122">
           <mxGeometry relative="1" as="geometry">
@@ -3232,7 +3232,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iUyb8CIV-onIVDOIvf63-313" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;קלוט נתונים תווים למערך בגודל 50 והדפס כמה פעמים מופיע כל תו במערך&lt;/font&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="364.99" y="7178" width="460" height="30" as="geometry" />
+          <mxGeometry x="320" y="7178" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iUyb8CIV-onIVDOIvf63-342" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iUyb8CIV-onIVDOIvf63-315" target="iUyb8CIV-onIVDOIvf63-341">
           <mxGeometry relative="1" as="geometry" />
@@ -3344,7 +3344,43 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iUyb8CIV-onIVDOIvf63-349" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;קלוט נתונים למערך בגודל 10 וקוד ) + או - (. הזז את המערך שמאלה או ימינה, לפי&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;הקוד, בצורה מעגלית!&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="330" y="8340" width="500" height="50" as="geometry" />
+          <mxGeometry x="289.93" y="8330" width="500" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iUyb8CIV-onIVDOIvf63-350" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;לא הבנתי כלום&lt;/font&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="570" y="8433" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iUyb8CIV-onIVDOIvf63-351" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="810" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUyb8CIV-onIVDOIvf63-352" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="810" y="753" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iUyb8CIV-onIVDOIvf63-353" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="815" y="1603" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iUyb8CIV-onIVDOIvf63-354" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="805" y="2330" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iUyb8CIV-onIVDOIvf63-355" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="805" y="3153" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iUyb8CIV-onIVDOIvf63-356" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;6&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="785" y="3923" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iUyb8CIV-onIVDOIvf63-357" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;7&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="815" y="4483" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iUyb8CIV-onIVDOIvf63-358" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;8&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="815" y="5503" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iUyb8CIV-onIVDOIvf63-359" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;9&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="785" y="6293" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iUyb8CIV-onIVDOIvf63-360" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;10&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="805" y="7173" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iUyb8CIV-onIVDOIvf63-361" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;11&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="810" y="8323" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
